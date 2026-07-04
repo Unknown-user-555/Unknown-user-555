@@ -4,7 +4,7 @@
 
 Final-year B.Tech CSE student at PDEU (CGPA 8.38) and co-founder of **Centure**, an SSIP-backed fintech startup. I like building things that touch real money, real users, and real constraints — and making sure they don't break (or get broken into).
 
-🔭 Currently building [**Centure**](https://github.com/Unknown-user-555/centure-capital) — a UPI round-up micro-investing platform that turns your spare change into investments, held safely in your own demat account (strict no-pooling model).
+🔭 Currently building [**Centure**](https://github.com/dishitabuilds/centure-capital) — a UPI round-up micro-investing platform that turns your spare change into investments, held safely in your own demat account (strict no-pooling model).
 
 🛡️ Previously: Cybersecurity intern at **BISAG-N**, where I deployed honeypots (Cowrie, Dionaea) and rebuilt a two-VM Wazuh SIEM pipeline from scratch.
 
@@ -66,10 +66,10 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Centure**](https://github.com/Unknown-user-555/centure-capital) | UPI round-up micro-investing platform — spare change → real investments | FastAPI, PostgreSQL, React, Expo |
-| [**TravelMind**](https://github.com/Unknown-user-555/TravelMind) 🥉 | AI travel planner — 2nd runner-up at Economania'26 | Groq LLaMA 3.3, React, Node.js, MongoDB |
-| [**Prosperra**](https://github.com/Unknown-user-555/Prosperra) | Where the spare-change auto-invest idea was first prototyped | TypeScript |
-| [**Expense Tracker**](https://github.com/Unknown-user-555/expense-tracker) | ML-powered spend categorization (TF-IDF + logistic regression) + PySpark analytics | Flask, scikit-learn, Spark, MySQL |
+| [**Centure**](https://github.com/dishitabuilds/centure-capital) | UPI round-up micro-investing platform — spare change → real investments | FastAPI, PostgreSQL, React, Expo |
+| [**TravelMind**](https://github.com/dishitabuilds/TravelMind) 🥉 | AI travel planner — 2nd runner-up at Economania'26 | Groq LLaMA 3.3, React, Node.js, MongoDB |
+| [**Prosperra**](https://github.com/dishitabuilds/Prosperra) | Where the spare-change auto-invest idea was first prototyped | TypeScript |
+| [**Expense Tracker**](https://github.com/dishitabuilds/expense-tracker) | ML-powered spend categorization (TF-IDF + logistic regression) + PySpark analytics | Flask, scikit-learn, Spark, MySQL |
 
 ---
 
@@ -84,8 +84,8 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 
 ## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Unknown-user-555&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-user-555&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dishitabuilds&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishitabuilds&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
