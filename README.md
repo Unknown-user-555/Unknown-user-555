@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6D9,50:F06292,100:E91E63&height=180&section=header&text=Hi%2C%20I%27m%20Dishitaba%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6D9,50:F06292,100:E91E63&height=180&section=header" width="100%"/>
+
+# Hi, I'm Dishitaba Chudasama 👋
 
 **Full-stack developer · Fintech founder · Security-curious** 🌸
 
