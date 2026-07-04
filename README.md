@@ -67,6 +67,7 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 | Project | What it does | Stack |
 |---|---|---|
 | [**Centure**](https://github.com/dishitabuilds/centure-capital) | UPI round-up micro-investing platform — spare change → real investments | FastAPI, PostgreSQL, React, Expo |
+| [**Standby**](https://github.com/dishitabuilds/Standby) | Mock API platform — frontend teams create realistic REST endpoints with custom status codes, wildcard routes, simulated latency | Spring Boot 4 / Java 25, React 19, Redis |
 | [**TravelMind**](https://github.com/dishitabuilds/TravelMind) 🥉 | AI travel planner — 2nd runner-up at Economania'26 | Groq LLaMA 3.3, React, Node.js, MongoDB |
 | [**Prosperra**](https://github.com/dishitabuilds/Prosperra) | Where the spare-change auto-invest idea was first prototyped | TypeScript |
 | [**Expense Tracker**](https://github.com/dishitabuilds/expense-tracker) | ML-powered spend categorization (TF-IDF + logistic regression) + PySpark analytics | Flask, scikit-learn, Spark, MySQL |
