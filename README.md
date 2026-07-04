@@ -2,7 +2,7 @@
 
 **Full-stack developer · Fintech founder · Security-curious**
 
-Final-year B.Tech CSE student at PDEU (CGPA 8.38) and co-founder of **Centure**, an SSIP-backed fintech startup. I like building things that touch real money, real users, and real constraints — and making sure they don't break (or get broken into).
+Final-year B.Tech CSE student at PDEU and co-founder of **Centure**, an SSIP-backed fintech startup. I like building things that touch real money, real users, and real constraints — and making sure they don't break (or get broken into).
 
 🔭 Currently building [**Centure**](https://github.com/dishitabuilds/centure-capital) — a UPI round-up micro-investing platform that turns your spare change into investments, held safely in your own demat account (strict no-pooling model).
 
