@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,23&height=180&section=header&text=Hi,%20I'm%20Dishitaba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6D9,50:F06292,100:E91E63&height=180&section=header&text=Hi%2C%20I%27m%20Dishitaba%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 **Full-stack developer · Fintech founder · Security-curious** 🌸
 
@@ -97,4 +97,4 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 
 *Made with 💗 in Gandhinagar, Gujarat, India*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,23&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6D9,50:F06292,100:E91E63&height=100&section=footer" width="100%"/>
