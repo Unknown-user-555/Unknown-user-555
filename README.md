@@ -1,6 +1,6 @@
-# Hi, I'm Dishitaba Chudasama 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,23&height=180&section=header&text=Hi,%20I'm%20Dishitaba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-**Full-stack developer · Fintech founder · Security-curious**
+**Full-stack developer · Fintech founder · Security-curious** 🌸
 
 Final-year B.Tech CSE student at PDEU (CGPA 8.38) and co-founder of **Centure**, an SSIP-backed fintech startup. I like building things that touch real money, real users, and real constraints — and making sure they don't break (or get broken into).
 
@@ -26,39 +26,39 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F06292?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EC407A?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF80AB?style=flat&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-E91E63?style=flat&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-F48FB1?style=flat&logo=c&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-EC407A?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-F06292?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-FF80AB?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-E91E63?style=flat&logo=vite&logoColor=white)
 
 **Backend & Data**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-EC407A?style=flat&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F06292?style=flat&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E91E63?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF80AB?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F48FB1?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF69B4?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-EC407A?style=flat&logo=supabase&logoColor=white)
 
 **Security & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-3585BB?style=flat)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=flat&logo=docker&logoColor=white)
+![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-EC407A?style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F06292?style=flat&logo=elasticsearch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E91E63?style=flat&logo=apachespark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF80AB?style=flat&logo=linux&logoColor=white)
 
 ---
 
@@ -85,14 +85,16 @@ FastAPI (Python 3.12) backend as the single source of truth for money logic · a
 
 ## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dishitabuilds&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishitabuilds&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dishitabuilds&show_icons=true&title_color=e91e63&icon_color=f06292&text_color=555&bg_color=fff0f6&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishitabuilds&layout=compact&title_color=e91e63&text_color=555&bg_color=fff0f6&hide_border=true)
 
 ---
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishitaba-chudasama-96ab28302)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dishitabachudasama@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC407A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishitaba-chudasama-96ab28302)
+[![Email](https://img.shields.io/badge/Email-FF69B4?style=flat&logo=gmail&logoColor=white)](mailto:dishitabachudasama@gmail.com)
 
-*Gandhinagar, Gujarat, India*
+*Made with 💗 in Gandhinagar, Gujarat, India*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,23&height=100&section=footer" width="100%"/>
