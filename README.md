@@ -81,7 +81,6 @@ Turn any PDF, EPUB, DOCX or text file into a narrated audiobook — with chapter
 |---|---|---|
 | [**Centure**](https://centure-five.vercel.app/) | UPI round-up micro-investing platform — spare change → real investments | FastAPI, PostgreSQL, React, Expo |
 | [**SoundScript**](https://soundscript-web.onrender.com) | Documents (PDF/EPUB/DOCX) → chaptered audiobooks with read-along + a private podcast feed | Node.js, React, Supabase, ffmpeg |
-| [**Standby**](https://github.com/dishitabuilds/Standby) | Mock API platform — frontend teams create realistic REST endpoints with custom status codes, wildcard routes, simulated latency | Spring Boot 4 / Java 25, React 19, Redis |
 | [**TravelMind**](https://github.com/dishitabuilds/TravelMind) 🥉 | AI travel planner — 2nd runner-up at Economania'26 | Groq LLaMA 3.3, React, Node.js, MongoDB |
 | [**Prosperra**](https://github.com/dishitabuilds/Prosperra) | Where the spare-change auto-invest idea was first prototyped | TypeScript |
 | [**Expense Tracker**](https://github.com/dishitabuilds/expense-tracker) | ML-powered spend categorization (TF-IDF + logistic regression) + PySpark analytics | Flask, scikit-learn, Spark, MySQL |
